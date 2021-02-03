@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@700&display=swap');
 
+html{
+    overflow: hidden;
+}
+
 body{
     font-family: 'Baloo Bhai 2', cursive;
-    background-image: url(img/crossfit-534615.jpg);
+    background-image: url(../img/crossfit-534615.jpg);
     height: 1100px;
 }
 

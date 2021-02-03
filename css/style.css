@@ -1,13 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@700&display=swap');
 
+html{
+    overflow: hidden;
+}
+
 /* CSS Reset */
 /* means assigning common properties to the body */
 body{
     color: white;
     margin: 0px;
     padding: 0px;
-    background-image: url(img/body.jpg);
+    background-image: url(../img/body.jpg);
     /* font-family: 'Grenze Gotisch', cursive; */
     font-family: 'Baloo Bhai 2', cursive;
 }
