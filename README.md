@@ -5,7 +5,7 @@ It contains a form which prompts the user to give various details <br />
 
 ## Bugs <br />
 ---------------
-* Inresponsive layout of the website
+* Unresponsive layout of the website
 
 ## Improvements <br />
 ---------------
